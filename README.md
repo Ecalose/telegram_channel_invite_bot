@@ -17,6 +17,6 @@
 
 ### 适配新的系统
 
-加入TG交流群组 @devourbots
+加入TG交流群组 (@devourbots)[https://t.me/devourbots]
 
 如需适配其他系统，请将数据库相应字段示例导出为可导入的sql文件发送给管理员
